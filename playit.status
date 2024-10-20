@@ -1,59 +1,459 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1729278624325 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1729389427235 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729278627388 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729389430356 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729278630458 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729389434454 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729278633523 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729389437520 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729278636586 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729389440579 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729278639653 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729389443645 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729278642721 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729389446714 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729278645798 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729389449778 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729278648870 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729389453067 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729278651937 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729389456141 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729278655018 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729389459216 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729278658099 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729389462864 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389465930 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389469000 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389472062 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389475129 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389478202 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389481267 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389484337 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389487591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389490669 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389493732 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389496801 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389499868 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389504618 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389507696 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389510756 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389513838 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389516908 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389519995 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389523788 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389526854 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389529955 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389533019 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389536095 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389539166 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389542233 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389545302 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389548377 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389551449 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389554518 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389557605 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389560669 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389563741 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389566820 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389569892 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389572961 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389576043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389579135 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389582203 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389585265 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389588956 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389592019 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729389607137 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389610214 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389613296 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389616365 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389619571 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389622639 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389625723 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389628787 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389631848 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389634950 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389638023 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389641098 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389644299 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389647726 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389651493 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389654614 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389657677 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729389672790 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389675862 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389678928 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389682023 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729389697124 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389700210 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389703277 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389706365 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389709429 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729389724525 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389727597 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389731214 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389734291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389737389 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389740486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729389755609 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389758696 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389761765 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+storage-hampton.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729389764837 tunnel running, 1 tunnels registered
 
 
 TUNNELS
